@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 232a4bf5238ff5440a75aa0db978d5cf
+timeCreated: 1444658353
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tongue_Begin: {fileID: 111792, guid: 57673c17384be6842b3d3892f8c5d127, type: 2}
+  - tongue_Middle: {fileID: 145414, guid: c69a13abe1ac41849b0bff5147dd3a96, type: 2}
+  - tongue_End: {fileID: 157170, guid: 1bf755e27100d094db93dc47fdc94eac, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
